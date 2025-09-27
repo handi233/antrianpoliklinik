@@ -1,22 +1,13 @@
-Cara Penggunaan 
+#Cara Penggunaan 
 1.Download Laravel 9
 2.Download file ini dimenu download zip
 3.Buka cmd dan arahkan file yang dituju 
 4.Langkah berikutnya, ketik php artisan serve 
 5.Open Browser 127.0.0.1:8000
-6.Ketik username & password admin & admin (default)
-7.Aplikasi laravel 9 sudah berjalan
-
-
-
-
-
-
-
-
-
-
-
+6.Ketik username & password
+   uswername:admin 
+   password:admin (default)
+7.Aplikasi laravel 9 sudah berjalan dan siap digunakan.
 
 <img width="949" height="461" alt="Gambar1" src="https://github.com/user-attachments/assets/73b3164f-8a96-473d-a65f-27cf1d39c64a" />
 <img width="947" height="465" alt="Gambar2" src="https://github.com/user-attachments/assets/0dca2308-b3fe-44f1-8903-0f7722ae5280" />
