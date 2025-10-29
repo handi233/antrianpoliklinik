@@ -9,4 +9,4 @@
    password:admin (default)
 7.Aplikasi laravel 9 sudah berjalan dan siap digunakan.
 
-![Uploading Screenshot 2025-10-29 070043.png…]()
+<img width="958" height="461" alt="Screenshot 2025-10-29 070043" src="https://github.com/user-attachments/assets/173454cf-ec10-4b63-a850-ddc7951e3949" />
