@@ -9,9 +9,4 @@
    password:admin (default)
 7.Aplikasi laravel 9 sudah berjalan dan siap digunakan.
 
-<img width="949" height="461" alt="Gambar1" src="" />
-<img width="947" height="465" alt="Gambar2" src="" />
-<img width="958" height="467" alt="Gambar3" src="" />
-<img width="959" height="472" alt="Gambar4" src="" />
-<img width="950" height="470" alt="Gambar5" src="" />
-<img width="943" height="467" alt="Gambar7" src="" />
+![Uploading Screenshot 2025-10-29 070043.png…]()
